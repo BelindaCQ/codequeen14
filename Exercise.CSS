@@ -1,0 +1,42 @@
+*{
+ margin: auto;
+ text-align: center;
+}
+body{
+    background-color: deepskyblue;
+    text-align: center;
+
+}
+
+
+.Photo {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-left: 30px;
+    box-shadow: 10px 10px 10px;
+}
+
+
+
+.Web{
+box-shadow: 5px 5px 5px coral;
+border-radius: 20px;
+border-top: 30px;
+border: 5px;
+margin: 30px;
+margin-left: 550px;
+margin-right: 550px;
+background-color: grey;
+padding-top: 50px;
+padding-bottom: 50px;
+}
+.Profile{
+    padding-top: 20PX;
+}
+ul{
+    list-style-type: none;
+}
+.h1{
+    color: azure;
+}
